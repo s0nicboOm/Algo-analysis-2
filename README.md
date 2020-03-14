@@ -6,7 +6,7 @@ ALGO. Parsing and Searching the dialogues in file.
 * Windows 10 Pro
 * Python 3.7
 * Python Standard Libraries used
-    * re - 
+    * re - regulr expression
     * sys - for passing command line arguments
 
 ### Hardware Specifications
