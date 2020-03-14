@@ -1,5 +1,5 @@
 # HW3
-ALGO assignment
+ALGO. Parsing and Searching the dialogues in file.
 
 ### Software Specifications
 
@@ -26,9 +26,10 @@ $ python Code.py
 ```
     * DIALOG : python3 temp.py sh.txt
     * DIALOG SEARCH : python3 temp.py sh.txt 'know me' 1
+    
 
 ### Sample run
-The code is made such that it will run in bash or cmd only.
+The code is made such that it will run in bash or cmd only. The code uses KMP.
 
 
 
