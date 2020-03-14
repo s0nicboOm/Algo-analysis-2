@@ -1,5 +1,5 @@
-# HW3
-ALGO. Parsing and Searching the dialogues in file.
+# ALGO ANALYSIS 2
+Parsing file and Searching the dialogues in file.
 
 ### Software Specifications
 
